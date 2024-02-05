@@ -1,0 +1,7 @@
+\title{contents}
+
+\put\transclude/numbered{true}
+\put\transclude/expanded{false}
+
+\transclude{toc-one}
+\transclude{toc-two}
