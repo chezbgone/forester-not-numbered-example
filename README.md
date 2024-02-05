@@ -1,3 +1,5 @@
+<img src="output.png"/>
+
 To build this forest, you need to have a working installation of the following software:
 
 - LaTeX, preferably the _full_ [TeXLive distribution](https://tug.org/texlive/)
